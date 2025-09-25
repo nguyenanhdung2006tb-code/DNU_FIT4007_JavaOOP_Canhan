@@ -8,5 +8,10 @@ public class Example15SumFormula {
         System.out.print("Nhập số nguyên dương N: ");
         int N = sc.nextInt();
 
+        int sum = 0;
+        for (int i = 1; i <= N; i++) {
+            sum += i * (i + 1);
+        }
+
     }
 }
