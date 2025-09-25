@@ -13,5 +13,8 @@ public class Example15SumFormula {
             sum += i * (i + 1);
         }
 
+        System.out.println("Tổng = " + sum);
+        sc.close();
     }
 }
+
