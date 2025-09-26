@@ -1,2 +1,83 @@
-# DNU_FIT4007_JavaOOP_1871020167
-Bài tập thực hành cá nhân - Học phần lập trình hướng đối tượng với Java
+# DNU_FIT4007_JavaOOP_1871020167 - Individual Progress
+
+Student ID: 1871020167
+Student Name: Nguyễn Anh Dũng
+Course: FIT4007 Java OOP
+
+
+
+## Part 1: Basic Variables and Calculations
+- [x] Ví dụ 1
+- [x] Ví dụ 2
+- [x] Ví dụ 3
+- [x] Ví dụ 4
+- [x] Ví dụ 5
+- [x] Ví dụ 6
+- [x] Ví dụ 7
+- [x] Ví dụ 8
+- [x] Ví dụ 9
+- [x] Ví dụ 10
+- [x] Ví dụ 11
+- [x] Ví dụ 12
+
+> Đã nộp, nhưng chưa đạt yêu cầu và đúng quy trình, nhưng giảng viên bảo nộp rồi thì thôi 
+> phần sau phải đúng yêu cầu nên để nguyên
+
+
+---
+
+## Part 2: Conditional Statements
+- [x] Ví dụ 1
+- [x] Ví dụ 2
+- [x] Ví dụ 3
+- [x] Ví dụ 4
+- [x] Ví dụ 5
+- [x] Ví dụ 6
+- [x] Ví dụ 7
+- [x] Ví dụ 8
+- [x] Ví dụ 9
+- [x] Ví dụ 10
+- [x] Ví dụ 11
+- [x] Ví dụ 12
+- [x] Ví dụ 13
+- [x] Ví dụ 14
+- [x] Ví dụ 15
+
+> đã nộp, nhưng chưa đạt yêu cầu giống part 1
+
+---
+
+## Part 3: Switch Cases
+- [x] Ví dụ 1
+- [x] Ví dụ 2
+- [x] Ví dụ 3
+- [x] Ví dụ 4
+- [x] Ví dụ 5
+
+> đã nộp nhưng chưa đúng yêu cầu giống part 1 và part 2 
+
+---
+
+## Part 4: Loops
+*(Từ phần này trở đi đã chỉnh sửa và làm đúng theo yêu cầu của giảng viên)*
+*(Phần Example 01 đã làm và nộp đúng quy trình nhưng bị lỗi vài chỗ vì bị lỗi commit,
+  lôi theo cả các thay đổi các phần ở part trước vì những phần trước do không đúng quy
+  trình nên đã quên commit)*
+- [x] Example 01: Print "PTIT" 20 times
+- [x] Example 02: Print numbers 1 to N
+- [x] Example 03: Print numbers N to 1
+- [x] Example 04: Calculate and print sum from 1 to N
+- [x] Example 05: Print even numbers ≤ N
+- [x] Example 06: Find smallest N with sum 1+2+..+N ≤ S
+- [x] Example 07: Require input until N > 0
+- [x] Example 08: Check if N is a power of 2
+- [x] Example 09: Calculate factorial of N
+- [x] Example 10: Print multiplication table of N
+- [x] Example 11: Print all divisors of N
+- [x] Example 12: Check if N is prime
+- [x] Example 13: Calculate sum of digits of N
+- [x] Example 14: Print each character of a name on new line
+- [x] Example 15: Calculate sum formula and print result
+
+---
+
