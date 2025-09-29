@@ -1,3 +1,6 @@
+package part3.switch_cases;
+
+
 import java.util.Scanner;
 public class vidu1 {
     public static void main(String[] args) {

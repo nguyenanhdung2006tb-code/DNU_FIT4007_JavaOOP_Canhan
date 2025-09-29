@@ -1,3 +1,4 @@
+package part2.conditional.statements;
 import java.util.Scanner;
 public class vidu11 {
     public static void main(String[] args) {

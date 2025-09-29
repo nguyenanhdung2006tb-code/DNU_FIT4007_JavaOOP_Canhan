@@ -1,3 +1,5 @@
+package part1.basic.variables;
+
 import java.util.Scanner;
 public class vidu12 {
     public static void main(String[] args) {
