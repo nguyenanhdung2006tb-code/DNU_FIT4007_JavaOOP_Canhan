@@ -81,3 +81,17 @@ Course: FIT4007 Java OOP
 
 ---
 
+## Part 5: Arrays
+- [x] Example 01: PrintArray5
+- [x] Example 02: PrintArrayN
+- [x] Example 03: PrintArrayReverse
+- [x] Example 04: CalculateSum
+- [x] Example 05: CalculateSumEvenOddIndex
+- [x] Example 06: PrintFirstLastElement
+- [x] Example 07: FindMinMaxElement
+- [x] Example 08: FindMaxAndCount
+- [x] Example 09: CountEvenNumbers
+- [x] Example 10: PrintDivisibleBy5
+- [x] Example 11: FindLastMaxIndex
+- [x] Example 12: DeleteElementAtIndexK
+- [x] Example 13: CheckNonDecreasing
