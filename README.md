@@ -95,3 +95,17 @@ Course: FIT4007 Java OOP
 - [x] Example 11: FindLastMaxIndex
 - [x] Example 12: DeleteElementAtIndexK
 - [x] Example 13: CheckNonDecreasing
+
+--
+
+## Part 6: Strings
+- [x] Example 01: ReverseString
+- [x] Example 02: CountCharA
+- [x] Example 03: CheckPalindrome
+- [x] Example 04: CountWords
+- [x] Example 05: ContainsDigit
+- [x] Example 06: CheckPangram
+- [x] Example 07: ToUpperCase
+- [x] Example 08: PrintStarTower
+- [x] Example 09: CountCharacterFrequency
+
