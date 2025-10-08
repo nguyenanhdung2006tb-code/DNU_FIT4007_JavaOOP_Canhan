@@ -96,7 +96,7 @@ Course: FIT4007 Java OOP
 - [x] Example 12: DeleteElementAtIndexK
 - [x] Example 13: CheckNonDecreasing
 
---
+---
 
 ## Part 6: Strings
 - [x] Example 01: ReverseString
