@@ -109,3 +109,27 @@ Course: FIT4007 Java OOP
 - [x] Example 08: PrintStarTower
 - [x] Example 09: CountCharacterFrequency
 
+---
+
+## Part 7: Methods
+- [x] Example 01: CalculateSum 
+- [x] Example 02: CalculateProduct 
+- [x] Example 03: IsNaturalNumber 
+- [x] Example 04: IsEven 
+- [x] Example 05: CalculateFactorial 
+- [x] Example 06: CountDivisors 
+- [x] Example 07: PrintHelloName 
+- [x] Example 08: CheckStringPalindrome 
+- [x] Example 09: FindGCD 
+- [x] Example 10: CheckPangramMethod 
+- [x] Example 11: CheckPrimeNumber 
+- [x] Example 12: PrintStringNTimes 
+- [x] Example 13: CalculateTriangleArea 
+- [x] Example 14: ConvertDecimalToBinary 
+- [x] Example 15: CalculateArraySum 
+- [x] Example 16: CalculateSquareSum 
+- [x] Example 17: GetLastDigit 
+- [x] Example 18: GetFirstDigit 
+- [x] Example 19: CheckPerfectSquare 
+- [x] Example 20: CountTrailingZeros 
+- [x] Example 21: ArrayMethods 
