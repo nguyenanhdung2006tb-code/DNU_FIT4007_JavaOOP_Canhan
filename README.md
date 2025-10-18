@@ -133,3 +133,18 @@ Course: FIT4007 Java OOP
 - [x] Example 19: CheckPerfectSquare 
 - [x] Example 20: CountTrailingZeros 
 - [x] Example 21: ArrayMethods 
+
+---
+
+## Part 8: OOP - Constructors
+- [x] Example 01: Student Class with Constructors 
+- [x] Example 02: Rectangle Class with Constructors 
+- [x] Example 03: Circle Class with Constructors 
+- [x] Example 04: Triangle Class with Constructors 
+- [x] Example 05: Square Class with Constructors 
+- [x] Example 06: Animal Class with Constructors 
+- [x] Example 07: Car Class with Constructors 
+- [x] Example 08: Product Class with Constructors 
+- [x] Example 09: Player Class with Constructors 
+- [x] Example 10: Game Class with Constructors 
+
