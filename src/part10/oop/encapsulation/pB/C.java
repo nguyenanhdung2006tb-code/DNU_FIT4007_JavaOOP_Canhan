@@ -8,7 +8,8 @@ public class C extends A {
     }
 
     public void testC() {
-        // có thể gọi sqr() vì C là subclass của A
-        System.out.println("Bình phương của a trong C: " + sqr());
+        System.out.println("C thấy a bình phương qua sqr(): " + sqr());
+        setA(20);
+        System.out.println("C thay đổi a bằng setA, giá trị mới: " + getA());
     }
 }
