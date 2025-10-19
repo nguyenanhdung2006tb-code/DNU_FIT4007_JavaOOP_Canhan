@@ -165,3 +165,11 @@ Course: FIT4007 Java OOP
 - [x] Example 12: Book with input()
 - [x] Example 13: Book list management with filter, max, sort
 
+---
+
+## Part 10: Encapsulation
+*(Lỗi khi merge, do các ví dụ đều làm trên cùng 1 file nên bị thiếu lịch sử commit example02)*
+- [x] Example 01: Class A with private field `a`
+- [x] Example 02: Add `inc()` (package-private) to increase `a`
+- [x] Example 03: Add `sqr()` (protected) for `a^2` in subclass
+- [x] Example 04: Add `setA()` and `getA()` (public) for project-wide access
