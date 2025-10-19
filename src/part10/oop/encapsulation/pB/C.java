@@ -7,8 +7,8 @@ public class C extends A {
         super(a);
     }
 
-    public void tryInc() {
-        // inc() không thể gọi được vì khác package và không được protected
-        System.out.println("Giá trị a hiện tại (trong class C): " + getA());
+    public void testC() {
+        // có thể gọi sqr() vì C là subclass của A
+        System.out.println("Bình phương của a trong C: " + sqr());
     }
 }
