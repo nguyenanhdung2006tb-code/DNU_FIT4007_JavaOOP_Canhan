@@ -7,8 +7,8 @@ public class C extends A {
         super(a);
     }
 
-    public void displayA() {
-        // Không thể truy cập trực tiếp biến a, phải dùng getter
-        System.out.println("Giá trị a từ class C (kế thừa A): " + getA());
+    public void tryInc() {
+        // inc() không thể gọi được vì khác package và không được protected
+        System.out.println("Giá trị a hiện tại (trong class C): " + getA());
     }
 }
