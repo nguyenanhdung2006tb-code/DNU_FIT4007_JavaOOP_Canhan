@@ -7,8 +7,8 @@ public class C extends A {
         super(a);
     }
 
-    public void displayA() {
-        // Không thể truy cập trực tiếp biến a, phải dùng getter
-        System.out.println("Giá trị a từ class C (kế thừa A): " + getA());
+    public void testC() {
+        // có thể gọi sqr() vì C là subclass của A
+        System.out.println("Bình phương của a trong C: " + sqr());
     }
 }
