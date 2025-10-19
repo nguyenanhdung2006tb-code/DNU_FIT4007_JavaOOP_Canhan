@@ -148,3 +148,20 @@ Course: FIT4007 Java OOP
 - [x] Example 09: Player Class with Constructors 
 - [x] Example 10: Game Class with Constructors 
 
+---
+
+## Part 9: OOP Methods
+- [x] Example 01: Student with getYearOfBirth, getUpperName
+- [x] Example 02: Rectangle with getArea, getPerimeter, isSquare
+- [x] Example 03: Circle with getArea, getPerimeter
+- [x] Example 04: Triangle with getArea, getPerimeter, isIsosceles, isEquilateral, isRight, set()
+- [x] Example 05: Square with getArea, getPerimeter, isIntegerSquareSide
+- [x] Example 06: Animal with getYearOfBirth, equalsColor, increaseAge
+- [x] Example 07: Car with getAge
+- [x] Example 08: Product with getTotalPrice, increaseQuantity, decreaseQuantity
+- [x] Example 09: Player with increase/decreaseScore, isWinner
+- [x] Example 10: Game with getWinner, resetGame, swapPlayers
+- [x] Example 11: Student with input()
+- [x] Example 12: Book with input()
+- [x] Example 13: Book list management with filter, max, sort
+
