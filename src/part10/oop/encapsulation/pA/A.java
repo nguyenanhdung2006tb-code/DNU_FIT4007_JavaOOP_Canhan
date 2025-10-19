@@ -1,24 +1,28 @@
 package part10.oop.encapsulation.pA;
 
 public class A {
-    private int a; // không cho truy cập trực tiếp bên ngoài
+    private int a; // chỉ class A mới truy cập trực tiếp
 
     public A(int a) {
         this.a = a;
     }
 
-    // chỉ dùng được trong cùng package
+    // chỉ dùng trong cùng package
     void inc() {
         a++;
     }
 
-    // chỉ dùng được trong cùng package và subclass
+    // cho subclass hoặc cùng package
     protected int sqr() {
         return a * a;
     }
 
-    // hàm để xem giá trị hiện tại
-    public void showA() {
-        System.out.println("Giá trị a = " + a);
+    // dùng được trong toàn bộ project
+    public void setA(int a) {
+        this.a = a;
+    }
+
+    public int getA() {
+        return a;
     }
 }
