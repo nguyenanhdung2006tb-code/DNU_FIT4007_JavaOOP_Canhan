@@ -173,3 +173,12 @@ Course: FIT4007 Java OOP
 - [x] Example 02: Add `inc()` (package-private) to increase `a`
 - [x] Example 03: Add `sqr()` (protected) for `a^2` in subclass
 - [x] Example 04: Add `setA()` and `getA()` (public) for project-wide access
+
+---
+
+## Part 11: OOP Inheritance
+- [x] Example 01: ElectronicDevice and Laptop inheritance with input()
+- [x] Example 02: Animal and Cat inheritance with input(), getYearOfBirth()
+- [x] Example 03: Person and Student inheritance with input(), getYearOfBirth(), getUpperName(), checkStudentId()
+- [x] Example 04: Rectangle and Square inheritance with getArea(), getPerimeter()
+- [x] Example 05: User, Customer, Admin inheritance with menu and login
