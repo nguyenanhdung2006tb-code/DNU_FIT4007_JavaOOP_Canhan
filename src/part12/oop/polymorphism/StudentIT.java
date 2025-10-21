@@ -6,21 +6,21 @@ public class StudentIT extends Student {
     private float scoreCPP;
     private float scoreJava;
 
-    // 🔹 Constructor mặc định
+    // Constructor mặc định
     public StudentIT() {
         super();
         this.scoreCPP = 0;
         this.scoreJava = 0;
     }
 
-    // 🔹 Constructor đầy đủ
+    // Constructor đầy đủ
     public StudentIT(String studentID, String name, int age, float scoreCPP, float scoreJava) {
         super(studentID, name, age);
         setScoreCPP(scoreCPP);
         setScoreJava(scoreJava);
     }
 
-    // 🔹 Getter & Setter
+    // Getter & Setter
     public float getScoreCPP() {
         return scoreCPP;
     }
@@ -37,7 +37,7 @@ public class StudentIT extends Student {
         this.scoreJava = (scoreJava >= 0 && scoreJava <= 10) ? scoreJava : 0;
     }
 
-    // 🔹 Ghi đè input()
+    // Ghi đè input()
     @Override
     public void input() {
         Scanner sc = new Scanner(System.in);
@@ -50,7 +50,7 @@ public class StudentIT extends Student {
         setScoreJava(sc.nextFloat());
     }
 
-    // 🔹 Ghi đè toString()
+    // Ghi đè toString()
     @Override
     public String toString() {
         return super.toString() +
@@ -58,13 +58,13 @@ public class StudentIT extends Student {
                         scoreCPP, scoreJava, calculateAverage());
     }
 
-    // 🔹 Ghi đè copyObject()
+    // Ghi đè copyObject()
     @Override
     public StudentIT copyObject() {
         return new StudentIT(getStudentID(), getName(), getAge(), scoreCPP, scoreJava);
     }
 
-    // 🔹 Tính điểm trung bình
+    // Tính điểm trung bình
     public float calculateAverage() {
         return (scoreCPP + scoreJava) / 2;
     }
