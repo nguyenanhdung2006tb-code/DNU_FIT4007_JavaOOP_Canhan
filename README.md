@@ -182,3 +182,12 @@ Course: FIT4007 Java OOP
 - [x] Example 03: Person and Student inheritance with input(), getYearOfBirth(), getUpperName(), checkStudentId()
 - [x] Example 04: Rectangle and Square inheritance with getArea(), getPerimeter()
 - [x] Example 05: User, Customer, Admin inheritance with menu and login
+
+---
+
+## Part 12: OOP Polymorphism
+- [x] Example 01: Student base class with input() and toString() methods
+- [x] Example 02: StudentIT subclass overriding input(), toString(), and adding calculateAverage()
+- [x] Example 03: StudentBA subclass overriding input(), toString(), and adding calculateAverage()
+- [x] Example 04: StudentManager managing ArrayList<Student> with add, search, delete, update, and sort methods
+- [x] Example 05: Menu system integrating all previous classes with interactive console options
