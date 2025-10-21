@@ -5,10 +5,10 @@ public class Example02StudentITObject {
         StudentIT s1 = new StudentIT();
         s1.input();
 
-        System.out.println("\nThông tin sinh viên IT:");
+        System.out.println("\n🔹 Thông tin sinh viên IT:");
         System.out.println(s1);
 
-        System.out.println("\nTạo bản sao sinh viên IT:");
+        System.out.println("\n🔹 Tạo bản sao sinh viên IT:");
         StudentIT s2 = s1.copyObject();
         System.out.println(s2);
 
