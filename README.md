@@ -191,3 +191,15 @@ Course: FIT4007 Java OOP
 - [x] Example 03: StudentBA subclass overriding input(), toString(), and adding calculateAverage()
 - [x] Example 04: StudentManager managing ArrayList<Student> with add, search, delete, update, and sort methods
 - [x] Example 05: Menu system integrating all previous classes with interactive console options
+
+---
+
+## Part 13: OOP Abstraction
+- [x] Example 01: Shape abstraction with Triangle and Rectangle
+- [x] Example 02: Abstract Student class with IT and BA subclasses
+- [x] Example 03: IManager interface for student management
+- [x] Example 04: StudentManager implementing IManager
+- [x] Example 05: Interactive menu system integrating all previous classes
+
+
+
