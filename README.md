@@ -201,5 +201,10 @@ Course: FIT4007 Java OOP
 - [x] Example 04: StudentManager implementing IManager
 - [x] Example 05: Interactive menu system integrating all previous classes
 
+---
 
+## Part 14: OOP Midterm Sample Exercises
+- [x] Example 01: Book management system (inheritance, polymorphism)
+- [x] Example 02: Fruit management system (interface, abstraction)
+- [x] Example 03: Product management system (IManager, ISort, ISortPrice)
 
